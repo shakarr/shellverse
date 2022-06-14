@@ -22,7 +22,7 @@ I have decided to create this tool to reduce the time when I make machines in HT
 
 # Contribution
 
-Feel free to contribute or contribute ideas, or open an issue or a pull
+Feel free to contribute in the project or contribute ideas, or open an issue or a pull
 <br>
 <br>
 <br>
