@@ -19,3 +19,12 @@ I have decided to create this tool to reduce the time when I make machines in HT
 
 - [ ] auto implement listener with netcat when you choice an option in a new terminal
 - [ ] save the code generated in a file with its corresponding extension
+
+# Contribution
+
+Feel free to contribute or contribute ideas, or open an issue or a pull
+<br>
+<br>
+<br>
+
+<h3 align="center">:sparkles: Don't forget to leave a star if you like the project, you help me to know if the content is good and to :sparkles: continue creating more tools </h3>
