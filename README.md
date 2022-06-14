@@ -13,5 +13,9 @@
 
 Shellverse is a simple tool made in python with which you can get fast access to a different variety of reverse shell codes to copy to the clipboard, like python, bash, node, among many other.
 
+I have decided to create this tool to reduce the time when I make machines in HTB and I need to create a reverse shell depending on the situation
+
 # Future implementations
 
+- [ ] auto implement listener with netcat when you choice an option in a new terminal
+- [ ] save the code generated in a file with its corresponding extension
