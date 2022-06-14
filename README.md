@@ -27,4 +27,4 @@ Feel free to contribute or contribute ideas, or open an issue or a pull
 <br>
 <br>
 
-<h3 align="center">:sparkles: Don't forget to leave a star if you like the project, you help me to know if the content is good and to :sparkles: continue creating more tools </h3>
+<h3 align="center">:sparkles: Don't forget to leave a star if you like the project, you help me to know if the content is good and to continue creating more tools :sparkles:</h3>
